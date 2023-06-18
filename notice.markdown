@@ -5,9 +5,6 @@ title: Affiliate Notice - Bearded Empire
 ---
 
 {% include header.html %}
-
-<a href="/"><img src="assets/img/logo.png" alt="Bearded Empire Logo" class="logo" width="128px" height="128px" /></a>
-
 # Affiliate Notice
 
 Please note that this website may contain affiliate links. This means that if you make a purchase or engage in any other form of action through these links, we may earn a commission at no additional cost to you.

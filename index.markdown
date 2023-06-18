@@ -6,8 +6,6 @@ description: Discover the best beards and beard products for a well-groomed bear
 
 {% include header.html %}
 
-<a href="/"><img src="assets/img/logo.png" alt="Bearded Empire Logo" class="logo" width="128px" height="128px" /></a>
-
 Bearded Empire
 ==============
 

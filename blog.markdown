@@ -7,8 +7,6 @@ description: The Bearded Empire blog is the ultimate guide to beard care, provid
 
 {% include header.html %}
 
-<p class="text-center"><a href="/"><img src="/assets/img/logo.png" alt="Bearded Empire Logo" class="logo" width="128px" height="128px" /></a></p>
-
 <h1 class="text-center">Bearded Empire Blog</h1>
 
 The ultimate guide to beard care, providing expert tips, product recommendations, and grooming routines to help you achieve a healthy, well-groomed beard that reflects your unique style and personality.
