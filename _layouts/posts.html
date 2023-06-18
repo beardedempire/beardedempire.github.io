@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }} - Bearded Empire</title>
   <meta name="description" content="{{ page.description }}">
   <link rel="stylesheet" href="/assets/styles.css">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -21,8 +21,14 @@
 <body>
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK9NFFK"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <article class="main">
-  {{ content }}
+  <article class="main blog-post">
+    {% include header.html %}
+    <hr>
+    <p><small><a href="/blog">&laquo; Back to Blog</a></small></p>
+    <h1>{{page.title}}</h1>
+    {{ content }}
+    <p class="text-center"><a href="/"><img src="/assets/img/logo.png" alt="Bearded Empire Logo" class="logo" width="64px" height="64px" /></a></p>
+    {% include footer.html %}
   </article>
 </body>
 </html>

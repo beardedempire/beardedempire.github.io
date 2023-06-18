@@ -4,9 +4,9 @@ permalink: /notice
 title: Affiliate Notice - Bearded Empire
 ---
 
-<small>[« Back to Home](/)</small>
+{% include header.html %}
 
-<img src="assets/img/logo.png" alt="" class="logo" width="128px" height="128px" />
+<a href="/"><img src="assets/img/logo.png" alt="Bearded Empire Logo" class="logo" width="128px" height="128px" /></a>
 
 # Affiliate Notice
 
@@ -22,7 +22,5 @@ If you have any questions or concerns regarding our affiliate partnerships, plea
 
 Thank you for visiting our website! #beardedempire 🤘🏻
 
-* * *
-
-<small>[Contact us](mailto:beardedempireonline@gmail.com) &middot; [Affiliate notice](/notice) &middot; site by: [pixelflips](https://pixelflips.com)</small>
+{% include footer.html %}
 
