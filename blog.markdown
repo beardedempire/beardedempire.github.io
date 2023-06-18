@@ -15,7 +15,7 @@ The ultimate guide to beard care, providing expert tips, product recommendations
 
 ## Latest Posts
 
-<ul class="post-list">
+<ul id="post-list">
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
