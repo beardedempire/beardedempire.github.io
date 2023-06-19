@@ -196,6 +196,14 @@ small {
   }
 }
 
+.pagination {
+  background: #242526;
+  padding: 1rem;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
 .text-center{
   text-align: center;
 }
