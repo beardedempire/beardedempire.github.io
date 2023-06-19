@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: /notice
+permalink: /notice/
 title: Affiliate Notice - Bearded Empire
 ---
 
