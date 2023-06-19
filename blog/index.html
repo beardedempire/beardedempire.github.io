@@ -26,7 +26,7 @@ description: The Bearded Empire blog is the ultimate guide to beard care, provid
       </svg>
       {{ post.post_excerpt }}
     </p>
-    <p><small>Posted on: {{ post.date | date: "%m/%Y" }} by {{post.author}}</small></p>
+    <p><small>Posted on: {{ post.date | date: "%b %d, %Y" }} by {{post.author}}</small></p>
   </li>
   {% endfor %}
 </ul>
