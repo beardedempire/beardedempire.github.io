@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: blog
 permalink: /notice
 title: Affiliate Notice - Bearded Empire
 ---
@@ -20,4 +20,3 @@ If you have any questions or concerns regarding our affiliate partnerships, plea
 Thank you for visiting our website! #beardedempire 🤘🏻
 
 {% include footer.html %}
-
