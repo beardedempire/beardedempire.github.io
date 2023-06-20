@@ -3,7 +3,7 @@ layout: posts
 author: Bearded Empire
 categories: [blog]
 description: "Finding the right beard comb is essential for maintaining a well-groomed and healthy beard. In this article, we present a list of the top beard combs that combine functionality, durability, and style."
-post_excerpt: "Finding the right beard comb is essential for maintaining a well-groomed and healthy beard. In this article, we present a list of the top 10 beard combs that combine functionality, durability, and style."
+post_excerpt: "Finding the right beard comb is essential for maintaining a well-groomed and healthy beard. In this article, we present a list of the top beard combs that combine functionality, durability, and style."
 ---
 
 
