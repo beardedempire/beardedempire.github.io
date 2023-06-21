@@ -28,7 +28,7 @@ Its compact size makes it an ideal companion for travel, ensuring that your bear
 
 <img src="/assets/img/posts/combs/bearded-veterans-club.jpg" alt="Bearded Veterans Club Combat Comb" class="post-img" width="700" height="700">
 
-The <a href="https://beardedveteransclub.com/collections/combat-combs/products/bearded-veterans-club-combat-comb?sca_ref=3255839.NUKJ5ScKZA" rel="nofollow" target="_blank">Bearded Veterans Club Combat Comb</a> is a rugged and durable comb designed to withstand the toughest grooming challenges. Handcrafted with precision from aerospace-grade aluminum, this comb features both wide and narrow teeth to tackle knots and tame even the most unruly beards.
+The <a href="https://beardedveteransclub.com/collections/combat-combs/products/bearded-veterans-club-combat-comb?sca_ref=3255839.NUKJ5ScKZA" rel="nofollow" target="_blank">Bearded Veterans Club Combat Comb</a> is a rugged and durable comb designed to withstand the toughest grooming challenges. Handcrafted with precision from aerospace-grade aluminum, this comb features teeth to tackle knots and tame even the most unruly beards.
 
 With its unique military-inspired design, this comb is not only functional but also pays tribute to the service of veterans.
 
