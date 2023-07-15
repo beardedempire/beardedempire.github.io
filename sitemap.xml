@@ -7,7 +7,12 @@
 </url>
 <url>
   <loc>https://beardedempire.net/blog/</loc>
-  <lastmod>2023-06-18T00:46:38+00:00</lastmod>
+  <lastmod>2023-07-15T20:43:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://beardedempire.net/blog/page-2/</loc>
+  <lastmod>2023-07-15T20:43:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -38,6 +43,11 @@
 <url>
   <loc>https://beardedempire.net/blog/top-combs-for-beard-grooming</loc>
   <lastmod>2023-06-19T00:46:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://beardedempire.net/blog/beginners-guide-to-tattoo-aftercare</loc>
+  <lastmod>2023-07-15T20:43:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 </urlset>
