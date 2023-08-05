@@ -4,6 +4,7 @@ author: Bearded Empire
 categories: [blog]
 description: "Delve into the subtle differences between two essential grooming products: beard balm and beard butter. Choose the one that suits your grooming needs and desired experience for a magnificent beard."
 post_excerpt: "Delve into the subtle differences between two essential grooming products: beard balm and beard butter. Choose the one that suits your grooming needs and desired experience for a magnificent beard."
+post_img: /assets/img/posts/balm-or-butter-man.jpg
 ---
 
 Posted by: {{page.author}}

@@ -4,6 +4,7 @@ author: Bearded Empire
 categories: [blog]
 description: "Unleash the power of a well-groomed beard with expert solutions to common problems like itchiness, unruly hairs, patchy growth, and beard odor. Elevate your beard care routine and showcase a healthy, enviable beard that exudes confidence and style."
 post_excerpt: "Unleash the power of a well-groomed beard with expert solutions to common problems like itchiness, unruly hairs, patchy growth, and beard odor. Elevate your beard care routine and showcase a healthy, enviable beard that exudes confidence and style."
+post_img: /assets/img/posts/beard-oil-guide.jpg
 ---
 
 Posted by: {{page.author}}

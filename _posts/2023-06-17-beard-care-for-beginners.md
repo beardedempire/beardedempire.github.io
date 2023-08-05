@@ -4,6 +4,7 @@ author: Bearded Empire
 categories: [blog]
 description: "Discover the ultimate guide to growing and maintaining a healthy beard with this step-by-step resource. From embracing the growth process to consistent grooming routines, master the art of beard care and achieve a well-groomed beard that exudes confidence and style."
 post_excerpt: "Discover the ultimate guide to growing and maintaining a healthy beard with this step-by-step resource. From embracing the growth process to consistent grooming routines, master the art of beard care and achieve a well-groomed beard that exudes confidence and style."
+post_img: /assets/img/posts/beginner-beard-care.jpg
 ---
 
 Posted by: {{page.author}}

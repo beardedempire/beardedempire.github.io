@@ -4,6 +4,7 @@ author: Bearded Empire
 categories: [blog]
 description: "This comprehensive guide offers effective solutions and expert tips to overcome common beard problems, ensuring a healthy and well-groomed beard that enhances your style and boosts your confidence."
 post_excerpt: "This comprehensive guide offers effective solutions and expert tips to overcome common beard problems, ensuring a healthy and well-groomed beard that enhances your style and boosts your confidence."
+post_img: /assets/img/posts/common-beard-problems.jpg
 ---
 
 Posted by: {{page.author}}

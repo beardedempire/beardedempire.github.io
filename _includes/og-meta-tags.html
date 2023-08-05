@@ -1,0 +1,7 @@
+{% assign page_title = page.title | escape %}
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{site.url}}{{ page.url }}" />
+  <meta property="og:image" content="{{site.url}}{{ page.post_img }}" />
+  <meta property="og:description" content="{{ page.post_excerpt }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />

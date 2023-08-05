@@ -4,6 +4,7 @@ author: Bearded Empire
 categories: [blog]
 description: "Discover ten essential tips for growing a full and healthy beard in this comprehensive guide. From practicing patience during early growth to embracing individuality, this article covers diet, hydration, grooming, trimming, and stress management. With these practical insights, readers can embark on a rewarding facial hair journey, showcasing a well-groomed, confident, and enviable beard."
 post_excerpt: "Discover ten essential tips for growing a full and healthy beard in this comprehensive guide. From practicing patience during early growth to embracing individuality, this article covers diet, hydration, grooming, trimming, and stress management. With these practical insights, readers can embark on a rewarding facial hair journey, showcasing a well-groomed, confident, and enviable beard."
+post_img: /assets/img/posts/essential-beard.jpg
 ---
 
 Posted by: {{page.author}}

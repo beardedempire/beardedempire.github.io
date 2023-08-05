@@ -4,6 +4,7 @@ author: Bearded Empire
 categories: [blog]
 description: "In this beginner's guide to tattoo aftercare, we provide a step-by-step process for caring for your new tattoo. From cleansing to moisturizing and protecting with Mad Rabbit Tattoo products, this guide will help you promote healing, maintain vibrant colors, and prevent infection for a beautifully healed tattoo."
 post_excerpt: "In this beginner's guide to tattoo aftercare, we provide a step-by-step process for caring for your new tattoo. From cleansing to moisturizing and protecting with Mad Rabbit Tattoo products, this guide will help you promote healing, maintain vibrant colors, and prevent infection for a beautifully healed tattoo."
+post_img: /assets/img/posts/man-doing-tattoo.jpg
 ---
 
 Posted by: {{page.author}}

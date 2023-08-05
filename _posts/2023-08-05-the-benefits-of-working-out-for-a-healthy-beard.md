@@ -4,6 +4,7 @@ author: Bearded Empire
 categories: [blog]
 description: "Exercise boosts beard growth by improving blood circulation, increasing testosterone levels, and reducing stress. Better sleep quality and improved nutrient absorption also contribute to a fuller, healthier beard. Embrace physical activity for a manly look and better overall health."
 post_excerpt: "Exercise boosts beard growth by improving blood circulation, increasing testosterone levels, and reducing stress. Better sleep quality and improved nutrient absorption also contribute to a fuller, healthier beard. Embrace physical activity for a manly look and better overall health."
+post_img: /assets/img/posts/workout-beard.jpg
 ---
 
 Posted by: {{page.author}}
