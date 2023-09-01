@@ -1,5 +1,27 @@
 ---
 ---
+:root {
+  --text-color: #fff;
+  --site-bg: #18191a;
+  --divider-color: #3a3b3c;
+  --social-icon-color: #fff;
+  --link-background: #242526;
+  --link-color: #fff;
+  --link-border-color: #3a3b3c;
+  --pagination-bg: #242526;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --text-color: #333;
+    --site-bg: #fdfdfd;
+    --divider-color: #CCC;
+    --social-icon-color: #333;
+    --link-background: #f0f0f0;
+    --link-color: #333;
+    --link-border-color: #c1c1c1;
+    --pagination-bg: #e9e9e9;
+  }
+}
 
 /* reboot */
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1.3}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
@@ -7,11 +29,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 /* general styles */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  background: #18191a;
-  color: #fff;
+  background: var(--site-bg);
+  color: var(--text-color);
 }
 a {
-  color: #fff;
+  color: var(--text-color);
 }
 
 body {
@@ -55,8 +77,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+
 hr {
-  border: 1px solid #3a3b3c;
+  border: 1px solid var(--divider-color);
   width: 100%;
   margin: 0 auto;
   margin-bottom: 1rem;
@@ -100,10 +123,9 @@ small {
     width: 100%;
     border-radius: .8rem;
   }
-
   a {
-    background: #242526;
-    border: 1px solid #3a3b3c;
+    background: var(--link-background);
+    border: 1px solid var(--link-border-color);
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -112,7 +134,7 @@ small {
     transition: all 0.2s ease-in-out;
     border-radius: 2rem;
     padding: .6rem;
-    color: #fff;
+    color: var(--link-color);
     position: relative;
     overflow: hidden;
     max-width: 100%;
@@ -144,7 +166,7 @@ small {
   gap: 1.5rem;
 
   a {
-    color: #fff;
+    color: var(--social-icon-color);
     text-decoration: none;
     font-weight: 600;
     transition: all 0.2s ease-in-out;
@@ -208,7 +230,7 @@ small {
 }
 
 .pagination {
-  background: #242526;
+  background: var(--pagination-bg);
   padding: 1rem;
   border-radius: 1rem;
   display: flex;
