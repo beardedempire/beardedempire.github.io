@@ -20,5 +20,3 @@ Building an empire one beard at a time. Follow for inspiration & to elevate your
 Visit these companies to save on high quality beard &amp; grooming products:
 
 {% include links-list.html %}
-
-{% include footer.html %}

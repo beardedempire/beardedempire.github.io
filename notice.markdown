@@ -18,5 +18,3 @@ It is important to understand that the decision to make a purchase or engage wit
 If you have any questions or concerns regarding our affiliate partnerships, please don't hesitate to reach out to us. We appreciate your support and trust in our recommendations.
 
 Thank you for visiting our website! #beardedempire 🤘🏻
-
-{% include footer.html %}

@@ -15,6 +15,7 @@
 </head>
 <body>
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK9NFFK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  {% include sidebar.html %}
   <article class="main blog-post">
     {% include header.html %}
     <hr>
@@ -22,7 +23,7 @@
     <h1>{{page.title}}</h1>
     {{ content }}
     <p class="text-center"><a href="/"><img src="/assets/img/logo.png" alt="Bearded Empire Logo" class="logo" width="64px" height="64px" /></a></p>
-    {% include footer.html %}
   </article>
+  {% include footer.html %}
 </body>
 </html>

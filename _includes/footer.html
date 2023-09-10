@@ -1,10 +1,9 @@
-<hr>
-<p class="text-center">
-  <small>
-    <a href="/">Home</a> &middot;
-    <a href="/blog/">Blog</a> &middot;
-    <a href="/notice/">Affiliate notice</a> &middot;
-    <a href="mailto:beardedempireonline@gmail.com">Contact us</a> &middot;
-    site by <a href="https://pixelflips.com">pixelflips</a>
-  </small>
-</p>
+<footer>
+  <p class="text-center">
+    <small>
+      <a href="/notice/">Affiliate notice</a> &middot; site by
+      <a href="https://pixelflips.com">pixelflips</a>
+    </small>
+  </p>
+</footer>
+<script>let body=document.querySelector("body"),sidebar=document.querySelector(".sidebar");const openButton=document.getElementById("sidebar-open"),closeButton=document.getElementById("sidebar-close"),buttonPressed=()=>{sidebar.classList.toggle("expanded"),body.classList.toggle("sidebar-expanded")};openButton.addEventListener("click",buttonPressed),closeButton.addEventListener("click",buttonPressed),window.addEventListener("keydown",e=>{sidebar.classList.contains("expanded")&&27===e.keyCode&&(sidebar.classList.toggle("expanded"),body.classList.toggle("sidebar-expanded"))});</script>
