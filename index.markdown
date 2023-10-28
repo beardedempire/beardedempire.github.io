@@ -17,6 +17,6 @@ Building an empire one beard at a time. Follow for inspiration & to elevate your
 
 * * *
 
-Visit these companies to save on high quality beard &amp; grooming products:
+Visit these companies to save on high quality beard, tattoo, &amp; men's grooming products:
 
 {% include links-list.html %}
