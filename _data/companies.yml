@@ -1,34 +1,39 @@
-- name: Mad Viking
-  logo: mad-viking.png
-  savings: 10% off
-  link: https://madvikingbeard.com/beardedempire
-
-- name: Bearded Veterans Club
-  logo: bearded-veterans.png
-  savings: 15% off
-  link: https://beardedveteransclub.com?sca_ref=3255839.NUKJ5ScKZA
-
-- name: Mad Rabbit
-  logo: mad-rabbit.png
-  savings: 20% off
-  link: https://sldr.page.link/JCG8
+- name: Artius Man
+  logo: artius-man.png
+  savings: '20% off 1st Order <br/> <small>(Code: BEARDEDEMPIRE)</small>'
+  link: https://www.myartiusman.com/582.html
 
 - name: Baronial Beard Co.
   logo: baronial.png
   savings: 15% off
   link: https://baronialbeard.com/beardedempire
 
+- name: Bearded Veterans Club
+  logo: bearded-veterans.png
+  savings: 15% off
+  link: https://beardedveteransclub.com?sca_ref=3255839.NUKJ5ScKZA
+
 - name: Debonair Beard Co
   logo: debonair.png
   savings: 10% off
   link: https://www.debonairbeardco.com/?ref=beardedempire
 
-- name: Artius Man
-  logo: artius-man.png
-  savings: '20% off 1st Order <br/> <small>(Code: BEARDEDEMPIRE)</small>'
-  link: https://www.myartiusman.com/582.html
+- name: Mad Rabbit
+  logo: mad-rabbit.png
+  savings: 20% off
+  link: https://sldr.page.link/JCG8
+
+- name: Mad Viking
+  logo: mad-viking.png
+  savings: 10% off
+  link: https://madvikingbeard.com/beardedempire
 
 - name: Valhalla Legend
   logo: valhalla.jpg
   savings: '10% off'
   link: https://valhallalegend.com/BeardedEmpire
+
+- name: Zeus
+  logo: zeus.jpg
+  savings: '10% off'
+  link: https://www.zeusbeard.com/?ref=Ka6hwnqL5RI6zS
