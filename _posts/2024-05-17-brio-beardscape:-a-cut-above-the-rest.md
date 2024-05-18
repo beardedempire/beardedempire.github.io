@@ -2,8 +2,8 @@
 layout: posts
 author: Bearded Empire
 categories: [blog]
-description: "In this blog post, we'll be reviewing the Brio Beardscape v2 trimmer, a top-tier grooming tool that promises precision, versatility, and ease of use. As someone who has sported a beard for over a decade and tried numerous trimmers, I'll share my firsthand experience with the Beardscape v2, highlighting its features, performance, and overall value. From unboxing to the final trim, discover why this trimmer stands out as a must-have addition to your grooming arsenal."
-post_excerpt: "In this blog post, we'll be reviewing the Brio Beardscape v2 trimmer, a top-tier grooming tool that promises precision, versatility, and ease of use. As someone who has sported a beard for over a decade and tried numerous trimmers, I'll share my firsthand experience with the Beardscape v2, highlighting its features, performance, and overall value. From unboxing to the final trim, discover why this trimmer stands out as a must-have addition to your grooming arsenal."
+description: "I'll share my firsthand experience with the Brio Beardscape v2, highlighting its features, performance, and overall value. From unboxing to the final trim, discover why this trimmer stands out as a must-have addition to your grooming arsenal."
+post_excerpt: "I'll share my firsthand experience with the Brio Beardscape v2, highlighting its features, performance, and overall value. From unboxing to the final trim, discover why this trimmer stands out as a must-have addition to your grooming arsenal."
 
 post_img: /assets/img/posts/beardscape-packaging.jpg
 ---
@@ -66,7 +66,7 @@ The Beardscape is very easy to clean; removing the blades is simple, and the cle
 
 Highly recommended for anyone serious about their grooming routine, it is an investment in quality and performance in my opinion. Its comprehensive set of guards and accessories, coupled with its user-friendly design, make it suitable for both novice and experienced users. Overall, the Brio Beardscape v2 stands out as a reliable and effective tool that enhances your grooming routine, making it a worthy addition to your grooming arsenal. I look forward to using it for years to come and seeing how it holds up over time.
 
-If you're on the look for a new trimmer, I highly recommend giving the Beardscape v2 a try. It's a cut above the rest and will undoubtedly elevate your grooming experience. Make sure to check out the <a href="https://www.brio4life.com" target="_blank">Brio's website</a>for more information and to purchase your own Beardscape v2 trimmer.
+If you're on the look for a new trimmer, I highly recommend giving the Beardscape v2 a try. It's a cut above the rest and will undoubtedly elevate your grooming experience. Make sure to check out the <a href="https://www.brio4life.com" target="_blank">Brio's website</a> for more information and to purchase your own Beardscape v2 trimmer.
 
 <ul class="links-list">
   <li>
