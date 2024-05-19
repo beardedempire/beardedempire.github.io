@@ -322,9 +322,15 @@ button {
 }
 
 #sidebar-open {
+  background: var(--link-background);
+  border-radius: 8px;
+  border: 1px solid var(--link-border-color);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   left: 2rem;
+  padding: 2px 2px 0 2px;
   position: fixed;
   top: 2rem;
+  z-index: 999;
 }
 
 footer {
